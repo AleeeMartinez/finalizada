@@ -1,0 +1,103 @@
+body{
+    margin-top: -20px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+}
+
+.fondo{
+border-bottom: 70px;
+background: rgb(37,27,214);
+background: -moz-linear-gradient(90deg, rgba(37,27,214,1) 0%, rgba(7,153,184,1) 66%, rgba(8,8,237,1) 94%, rgba(0,212,255,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(37,27,214,1) 0%, rgba(7,153,184,1) 66%, rgba(8,8,237,1) 94%, rgba(0,212,255,1) 100%);
+background: linear-gradient(90deg, rgba(37,27,214,1) 0%, rgba(7,153,184,1) 66%, rgba(8,8,237,1) 94%, rgba(0,212,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#251bd6",endColorstr="#00d4ff",GradientType=1);
+}
+
+
+
+
+
+
+header{
+    background-image: url(/parroquia.jpg);
+    width: 100%;
+    height:700px;   
+}
+
+
+
+.barra{
+   list-style: none;
+   display: flex;
+   justify-self: flex-end;
+   justify-content: space-between;
+   font-style: italic;
+   font-size: 20px;
+  color: beige;
+margin-top:20px;
+}
+
+
+.virgen{
+width: 80px;
+margin-left: 45%;
+
+}
+
+h2{ text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 60px;
+}
+
+.texto{
+    color: whitesmoke;
+    font-size: 50px;
+   text-align: center;
+   font-family:  'Pacifico', cursive;;
+ 
+}
+
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 50PX;
+}
+
+h4{text-align: center;
+    color: black;
+    font-size:50px ;
+
+}
+
+.texto1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+
+}
+
+img{
+    width: 90px;
+   
+    
+    
+}
+
+.s2{
+    width: 100%;
+    height: 120px;
+    text-align: center
+   ;}
+
+footer{
+    background-color: #07b8ad;
+    text-align: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,35 @@
+section{
+    background-image: url(/parroquia.jpg);
+    height: 200%;
+   
+}
+
+.virgen{
+  margin-left: 45%;
+}
+
+.texto2{
+    color: antiquewhite;
+    margin-left:  100px;
+    font-size: 30px;
+}
+
+.texto3{
+    color: antiquewhite;
+   margin-left:760px ;
+    font-size: 30px;
+}
+
+.logos{ display: flex;
+justify-content: space-around;
+}
+
+.img{
+    height: 70px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
