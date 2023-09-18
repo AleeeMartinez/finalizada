@@ -15,11 +15,9 @@ background-color: #073763;
 margin-top: -50px;
 }
 
-.menulabel{
-    display: none;
-}
 
-.menu-icon{
+#menu-toggle,
+.menulabel{
     display: none;
 }
 

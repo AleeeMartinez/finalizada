@@ -5,9 +5,21 @@
 }
 
 @media (max-width:576px){
-  .menulabel{
-    display: none;
+
+  .menu-label{
+    display: flex;
+    cursor: pointer;
   }
+  
+  #menu-toggle:checked + .barra{
+    display: flex;
+  }
+.barra{
+ 
+  flex-direction: column;
+  display: none;
+}
+
 
 
   h3{
@@ -22,7 +34,8 @@
  }
 
  .video{
-    margin-left: 80px;
+    margin-left: 40px;
+   width: 90%;
  }
 
 }
