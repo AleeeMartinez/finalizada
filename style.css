@@ -39,9 +39,6 @@ font-size: 25px;
 color: beige;
 margin-top:20px;
 flex-direction: column;
-
-
-
 }
 
 
@@ -49,7 +46,6 @@ flex-direction: column;
 width: 100px;
 margin-left: 45%;
 height: 180px;
-
 }
 
 
@@ -73,7 +69,6 @@ h1{
    font-family: 'Times New Roman', Times, serif;
    font-family:YACgEfOAqSo-0;
    line-height:1.39536425em;font-style:italic;
- 
 }
 
 
@@ -84,7 +79,6 @@ h4{text-align: center;
   align-items: end;
    font-size: 30px;
 margin-top: 20px;
-
 }
 
 .texto1{
@@ -104,13 +98,13 @@ margin-top: 20px;
     margin-left: 30px;
    margin-top: 10px;
  }
+
 .s2{
    flex-wrap: wrap;
    text-align: center;
    height:75px;
    align-items: center;
    background-color: rgba(0, 180, 255, 0.39);
-
 }
   
 img{
@@ -125,14 +119,21 @@ img{
     text-align: center;
 }
 
-.video{
-   margin-left: 380px;
-}
+
 
 .grid{
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 30px;
+
+    
+}
+
+.video{
+    width: 560px;
+    height: 315px;
+  padding-left: 300px;
+  
 }
 footer{
     background-color: black;
