@@ -49,7 +49,7 @@
  .video{
    width:200px;
    height: 130px;
-   padding-right: -450px;
+   padding: auto;
 }
 
 }
