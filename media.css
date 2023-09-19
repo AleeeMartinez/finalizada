@@ -4,10 +4,10 @@
     }
 }
 
-@media (max-width:540px){
+@media (max-width:576px){git 
 
   .virgen{
-    width: 70%;
+    width: 40%;
   }
 
   .menu-label{
@@ -19,12 +19,9 @@
     display: flex;
   }
 .barra{
- 
-  flex-direction: column;
+ flex-direction: column;
   display: none;
 }
-
-
 
   h3{
     width: 90%;
