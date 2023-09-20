@@ -8,6 +8,7 @@
 
   .virgen{
     width: 15%;
+    height: 25%;
     padding-top: 45px;
   }
 
@@ -20,11 +21,11 @@
    }
  
    h2{
-    font-size: 100%;
+    font-size: 130%;
    }
 
    h1{
-    font-size: 100%;
+    font-size: 130%;
    }
 
   #menu-toggle:checked + .barra{
@@ -53,7 +54,7 @@
  .video{
    width:200px;
    height: 130px;
-   margin-left: -180px;
+   margin-left: -200px;
 }
 
 }
