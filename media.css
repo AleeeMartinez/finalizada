@@ -21,11 +21,11 @@
    }
  
    h2{
-    font-size: 130%;
+    font-size: 180%;
    }
 
    h1{
-    font-size: 130%;
+    font-size: 180%;
    }
 
   #menu-toggle:checked + .barra{
@@ -54,7 +54,7 @@
  .video{
    width:200px;
    height: 130px;
-   margin-left: -200px;
+   margin-left: -250px;
 }
 
 }
