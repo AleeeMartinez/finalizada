@@ -17,10 +17,9 @@
     cursor: pointer;
   }
 
-  .s2{
-    width: 90%;
-    margin-bottom: 10px;
-  }
+img {
+ height: 70%;
+}
   .barra{
      display: none;
    }
