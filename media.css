@@ -7,7 +7,7 @@
 @media (max-width:576px) {
 
   .virgen{
-    width: 15%;
+    width: 25%;
     height: 35%;
     padding-top: 45px;
   }
@@ -18,7 +18,7 @@
   }
 
   .s2{
-    width: 100%;
+    width: 90%;
   }
   .barra{
      display: none;
