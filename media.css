@@ -19,14 +19,18 @@
      display: none;
    }
  
+   h2{
+    font-size: 100%;
+   }
+
+   h1{
+    font-size: 100%;
+   }
 
   #menu-toggle:checked + .barra{
     display: flex;
   }
 
-.s2{
-  margin-bottom:50px;
-}
 
 .texto{
   font-size: 150%;
