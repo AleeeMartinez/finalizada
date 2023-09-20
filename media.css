@@ -8,13 +8,17 @@
 
   .virgen{
     width: 15%;
-    height: 25%;
+    height: 35%;
     padding-top: 45px;
   }
 
   .menu-label{
     display: flex;
     cursor: pointer;
+  }
+
+  .s2{
+    width: 100%;
   }
   .barra{
      display: none;
@@ -54,7 +58,7 @@
  .video{
    width:200px;
    height: 130px;
-   margin-left: -250px;
+   margin-left: -280px;
 }
 
 }
