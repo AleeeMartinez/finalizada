@@ -1,4 +1,4 @@
-@media  (max-width:992px) and (orientation:landscape){
+@media  (max-width:992px) and (orientation:portrait){
     
   .video{
    margin-left: 180px;
@@ -21,7 +21,7 @@ margin-left: -250px;
   }
 }
 
-@media (max-width:576px) and (orientation:landscape) {
+@media (max-width:576px) and (orientation:portrait) {
 
   .virgen{
     width: 25%;
