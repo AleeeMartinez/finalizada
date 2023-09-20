@@ -15,14 +15,14 @@
     display: flex;
     cursor: pointer;
   }
-  
+  .barra{
+     display: none;
+   }
+ 
+
   #menu-toggle:checked + .barra{
     display: flex;
   }
-.barra{
- flex-direction: column;
-  display: none;
-}
 
 .s2{
   margin-bottom:50px;
