@@ -18,7 +18,8 @@ margin-top: -50px;
 header{
     background-image: url(/parroquia.jpg);
     width: 100%;
-    height:700px;   
+    height:700px;  
+    position: relative; 
    
 }
 

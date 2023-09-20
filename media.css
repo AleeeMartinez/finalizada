@@ -1,10 +1,27 @@
-@media (max-width:992px){
-    .video{
+@media  (max-width:992px) and (orientation:landscape){
+    
+  .video{
    margin-left: 180px;
     }
 }
 
-@media (max-width:576px) {
+@media screen {
+  h4{ font-size: 95%;
+  padding-left: 20px;
+  }
+
+  .texto1{
+    font-size: 130%;
+  margin-top: 10px;
+  padding-right: 20px;
+  }
+
+  .video{
+margin-left: -250px;
+  }
+}
+
+@media (max-width:576px) and (orientation:landscape) {
 
   .virgen{
     width: 25%;
@@ -48,7 +65,7 @@ img {
   }
  .texto1{
     font-size: 75%;
-    padding-right: 40%;
+    padding-right: 20%;
  }
 
  .p{
@@ -58,7 +75,7 @@ img {
  .video{
    width:200px;
    height: 130px;
-   margin-left: -250px;
+   left: 250px;
 }
 
 }
