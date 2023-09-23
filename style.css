@@ -132,7 +132,7 @@ img{
 .video{
     width: 560px;
     height: 315px;
-  padding-left: 320px;
+  padding-left: 320%;
   
 }
 footer{
