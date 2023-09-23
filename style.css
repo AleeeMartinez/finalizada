@@ -5,7 +5,7 @@ body{
     margin-right: 0px;
     margin-left: 0px;
     overflow-x: hidden;
-    /* position: relative; */
+    position: relative;
  
 }
 
@@ -18,7 +18,7 @@ margin-top: -50px;
 header{
     background-image: url(/parroquia.jpg);
     background-size: 100% 100%;
-    position: relative; 
+    /* position: relative;  */
    
 }
 
