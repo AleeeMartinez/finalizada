@@ -23,6 +23,10 @@ margin-left: -250px;
 
 @media (max-width:576px) and (orientation:portrait) {
 
+  header{
+    margin-bottom: -1px;
+  }
+
   .virgen{
     width: 25%;
     height: 35%;
@@ -75,7 +79,10 @@ img {
  .video{
    width:200px;
    height: 130px;
-   left: 150px;
+   left: -150px;
 }
 
+.s2{
+  height: 90%;
+}
 }
