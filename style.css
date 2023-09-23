@@ -17,9 +17,8 @@ margin-top: -50px;
 
 header{
     background-image: url(/parroquia.jpg);
-    background-size: 100% 100%;
-    position: relative; 
-   
+    background-size: cover;
+    margin-bottom: -33px;
 }
 
 .barra{
@@ -45,6 +44,8 @@ display: flex;
 width:10%;
 height: 30%;
 margin-left: 45%;
+margin-top: -90px;
+
 }
 
 
@@ -52,6 +53,7 @@ margin-left: 45%;
 h2{ text-align: center;
     color: whitesmoke;
    font-size: 40px;
+   margin-top: 20px;
 }
 
 h1{
@@ -104,6 +106,7 @@ margin-top: 20px;
    height:75px;
    align-items: center;
    background-color: rgba(0, 180, 255, 0.39);
+   border-top: 20px;
 }
   
 img{
