@@ -39,7 +39,7 @@ margin-left: -250px;
   }
 
 img {
- height: 50px;
+ height: 90%;
 }
   .barra{
      display: none;
@@ -79,10 +79,8 @@ img {
  .video{
    width:200px;
    height: 130px;
-   left: -150px;
+   left: -250px;
 }
 
-.s2{
-  height: 90%;
-}
+
 }
