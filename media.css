@@ -23,9 +23,7 @@ margin-left: -250px;
 
 @media (max-width:576px) and (orientation:portrait) {
  
-  header{
-    position: relative;
-  }
+
 
   .virgen{
     width: 25%;
