@@ -22,10 +22,10 @@ margin-left: -250px;
 }
 
 @media (max-width:576px) and (orientation:portrait) {
- 
+
   .virgen{
     width: 25%;
-    height: 30%;
+    height: 35%;
     padding-top: 45px;
   }
 
@@ -55,7 +55,7 @@ img {
 
 
 .texto{
-  font-size: 130%;
+  font-size: 150%;
   margin-top: 30px;
 }
 
