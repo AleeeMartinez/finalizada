@@ -87,6 +87,12 @@
  .p{
   font-size: 80%;
  }
+
+
+ iframe{
+  height: 70%;
+  width: 90%;
+ }
 /* 
  .video{
    width:200px;
