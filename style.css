@@ -126,17 +126,18 @@ img{
 .grid{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 30px;
-
-    
+    gap: 30px;    
 }
 
 .video{
-    width: 560px;
-    height: 315px;
-  padding-left: 50%;
-  
+    display: grid;
+    justify-items: center;
+    position: relative;
+    height: 70%;
 }
+
+
+
 footer{
     background-color: black;
     text-align: center;
