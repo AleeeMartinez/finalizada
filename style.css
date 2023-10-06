@@ -119,6 +119,7 @@ img{
     color: #7F99B5;
     font-size: 60px;
     text-align: center;
+  margin-top: 10%;
 }
 
 
@@ -134,12 +135,21 @@ img{
     justify-items: center;
     position: relative;
     height: 70%;
+   
 
 }
 
 .div{
     width: 0%;
     height: 0%;
+}
+
+.mail{
+color: #8DCCFA;
+}
+
+.email{
+    margin-top: 20%;
 }
 
 
@@ -149,4 +159,10 @@ footer{
     text-align: center;
     margin-top: 20px;
     color: bisque;
+    height: 10%;
+  align-self: center;
+}
+
+.imagen{
+    height: 25%;
 }
