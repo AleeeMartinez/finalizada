@@ -73,11 +73,7 @@
 
 @media (max-width:576px)  {
 
- 
-  .texto2{
-    font-size: 90%;
-  }
- 
+
   .virgen{
     width: 25%;
     height: 35%;
@@ -123,7 +119,7 @@ h2{
  }
 
  .p{
-  font-size: 70%;
+  font-size: 30%;
  }
 
 
