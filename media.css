@@ -1,74 +1,108 @@
+/*
+  .barra{
+    display: none ;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 0%;
+    font-size: 100%;
+    gap: 5px;
+    text-decoration: none;
+   } 
 
- @media (max-width: 992px) and (orientation:portrait){
- /* .video
- { height: 70%;
-  width: 70;
+   i{
+    display: block;
+   }
 
- } */
+   .label{
+    display: flex;
+   }
 
- }   
+   #menu-toggle:checked + .barra{
+    display: flex;
+   } */
+   @media (max-width:777px)  {
+    h4{ font-size: 95%;
+      padding-left: 20px;
+      }
+    
+      .texto1{
+        font-size: 130%;
+      margin-top: 10px;
+      padding-right: 20px;
+      }
+
+      .barra{
+        display: none;
+        flex-direction: column;
+      }
+
+      #menu-toggle:checked +.barra{
+        display: flex;
+      }
+    
+   }
+
   
+  
+@media (max-width: 776px) {
+  .barra{
+    display: none ;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 0%;
+    font-size: 100%;
+    gap: 5px;
+    text-decoration: none;
+   }
 
+  
+   .mh{
+    display: block;
+    height: 36px;
+   }
+/* 
+   i{
+    display: block;
+   } */
 
-@media screen {
+   #menu-toggle:checked ~ .barra{
+    display: flex;
+   }
+  
+ }  
 
-  h4{ font-size: 95%;
-  padding-left: 20px;
-  }
+@media (max-width:576px)  {
 
-  .texto1{
-    font-size: 130%;
-  margin-top: 10px;
-  padding-right: 20px;
-  }
-/*  
-  .video{
-    left: 5vw;
-    height: 70%;
-    width: 70%;
-  } */
-}
-
-@media (max-width:576px) and (orientation:portrait) {
+ 
+ 
+ 
   .virgen{
     width: 25%;
     height: 35%;
     padding-top: 45px;
   }
 
-  .menu-label{
-    display: flex;
-    cursor: pointer;
-  }
-
   .s2{
-  /* height: 80px; */
- display: flex;
- flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75px;
 }
 
-
-.img {
- height: 30%;
+.img{
+ height: 40px;
+ display: flex ;
+ align-items: center;
 }
 
-
-  
-.barra{
-     display: none;
-   }
- 
-   h2{
+h2{
     font-size: 180%;
    }
 
-   h1{
+ h1{
     font-size: 180%;
    }
 
-  #menu-toggle:checked + .barra{
-    display: flex;
-  }
 
 
 .texto{
@@ -101,4 +135,28 @@
    width:200px;
    height: 130px; */
   
+   .barra{
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 0%;
+    font-size: 100%;
+    gap: 8px;
+    text-decoration: none;
+
+   }
+
+   .mh{
+    display: block;
+    height: 36px;
+   }
+/* 
+   i{
+    display: block;
+   } */
+
+   #menu-toggle:checked ~ .barra{
+    display: flex;
+   }
+
 }
