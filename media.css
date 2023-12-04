@@ -111,7 +111,7 @@ h2{
 }
 
   h4{
-  font-size: 95%;
+  /* font-size: 95%; */
   padding-left: 20px;
   }
 
@@ -130,10 +130,9 @@ h2{
   width: 90%;
   top: 2px;
  }
-/* 
+
  .video{
-   width:200px;
-   height: 130px; */
+ height: auto;
   
    .barra{
     display: none;
