@@ -132,7 +132,8 @@ h2{
  }
 
  .video{
- height: 70%;
+   width:50%;
+   height: 130px;
   
    .barra{
     display: none;
