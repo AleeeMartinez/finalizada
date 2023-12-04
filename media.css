@@ -71,7 +71,7 @@
   
  }  
 
-@media (max-width:576px) and (min-width:270px) {
+@media (max-width:576px) {
 
  
  
@@ -132,7 +132,9 @@ h2{
  }
 
  .video{
+  display: grid;
 position: relative;
+justify-content: center;
  }
 
  .barra{
