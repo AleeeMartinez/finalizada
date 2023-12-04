@@ -131,13 +131,11 @@ h2{
   top: 2px;
  }
 
- /* .video{
-   width:70%;
-   height: 30%;
-   align-items: center;
-   }
-   */
-   .barra{
+ .video{
+position: relative;
+ }
+
+ .barra{
     display: none;
     flex-direction: column;
     position: absolute;
