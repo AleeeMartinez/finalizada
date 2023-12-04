@@ -71,7 +71,7 @@
   
  }  
 
-@media (max-width:576px)  {
+@media (max-width:576px) and (min-width:270px) {
 
  
  
@@ -134,6 +134,7 @@ h2{
  .video{
    width:70%;
    height: 30%;
+   }
   
    .barra{
     display: none;
