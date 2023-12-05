@@ -44,7 +44,7 @@
 
   
   
-@media (max-width:900px) {
+@media (max-width:950px) {
   .barra{
     display: none ;
     flex-direction: column;
